@@ -20,7 +20,8 @@ Além disso, tenho experiência com **Java** e **SQL**, usados em vários projet
 ## 📫 Contato
 
 - 📧 **Email**: [lucasfernandesmartinez@gmail.com](mailto:lucasfernandesmartinez@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/lucas-fernandes-069005364](https://www.linkedin.com/in/lucas-fernandes-069005364/)
+- 💼 **LinkedIn**: [Lucas Fernandes](https://www.linkedin.com/in/lucas-fernandes-069005364/)
+- 👨‍💻 **Currículo Virtual**: [Currículo](https://curriculo-dev-woad.vercel.app/)
 
 Sinta-se à vontade para me contatar para colaborações, oportunidades de estágio ou para trocar ideias sobre tecnologia e programação!
 
