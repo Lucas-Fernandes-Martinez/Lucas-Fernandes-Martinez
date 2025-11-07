@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 🎓 Atualmente cursando **Análise e desenvolvimento de Sistemas** (5º Semestre) & **Engenharia de Software** (1º Semestre)
+- 🎓 Atualmente cursando **Análise e desenvolvimento de Sistemas** (5º Semestre) & **Engenharia de Software** (3º Semestre)
 - 📍 **Sou de Uberaba, Minas Gerais**
 
 Desde cedo, desenvolvi uma paixão por programação e tecnologia. Ao longo da minha jornada acadêmica e profissional, adquiri experiência com diversas linguagens e ferramentas, o que me proporcionou uma sólida base para enfrentar novos desafios.
