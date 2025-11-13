@@ -11,7 +11,7 @@ Tenho ampla experiência com **HTML**, **CSS** e **TS**, e também trabalhei com
 No momento, estou desenvolvendo um projeto no qual o projeto é um **Full Stack** usando **TypeScript/React** no frontend e **JavaScript/Node.js** no backend, com suporte a **HTML** e **CSS** para estrutura e estilização.
 Este projeto estara disponível em [meus repositórios](https://github.com/Lucas-Fernandes-Martinez/Sistema-de-gest-o-de-tarefas-com-autentica-o-de-usu-rio) e reflete meu interesse em aplicar conhecimentos técnicos a problemas reais.
 
-Estou estágiando na **CODIUB** trabalhando com **Angular, Java, OracleSQL, Typescript, HTML e CSS**
+Estou estágiando na **CODIUB** trabalhando com **Angular, Java, Spring, PostgreSQL, Mysql, OracleSQL, Typescript, HTML e CSS**
 
 Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Sempre buscando aprender mais e expandir minhas habilidades!
 
@@ -38,6 +38,7 @@ Sinta-se à vontade para me contatar para colaborações, oportunidades de está
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </p>
