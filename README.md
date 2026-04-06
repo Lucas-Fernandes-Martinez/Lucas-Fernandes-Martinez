@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- 🎓 Atualmente cursando **Análise e desenvolvimento de Sistemas** (5º Semestre) & **Engenharia de Software** (3º Semestre)
+- 🎓 Formado em **Análise e desenvolvimento de Sistemas** & cursando **Engenharia de Software** (3º Semestre)
 - 📍 **Sou de Uberaba, Minas Gerais**
 
 Desde cedo, desenvolvi uma paixão por programação e tecnologia. Ao longo da minha jornada acadêmica e profissional, adquiri experiência com diversas linguagens e ferramentas, o que me proporcionou uma sólida base para enfrentar novos desafios.
@@ -13,7 +13,7 @@ Este projeto estara disponível em [meus repositórios](https://github.com/Lucas
 
 Estou estágiando na **CODIUB** trabalhando com **Angular, Java, Spring, PostgreSQL, Mysql, OracleSQL, Typescript, HTML e CSS**
 
-Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Sempre buscando aprender mais e expandir minhas habilidades!
+Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Atualmente, venho expandindo meus conhecimentos na área de **Cybersecurity**, com foco em segurança de sistemas, proteção de dados e boas práticas de desenvolvimento seguro, buscando integrar esses conceitos no desenvolvimento das minhas aplicações.
 
 ---
 
@@ -41,4 +41,5 @@ Sinta-se à vontade para me contatar para colaborações, oportunidades de está
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" height="40" />
 </p>
